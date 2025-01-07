@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_useee" target="blank"><img src="https://img.shields.io/twitter/follow/dev_useee?logo=twitter&style=for-the-badge" alt="dev_useee" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud and Devops**
+- 🌱 I’m currently learning **Bitcoin and Ligthing**
 
 - 👯 I’m looking to collaborate on **Building Mobile Applications**
 
